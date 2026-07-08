@@ -4,13 +4,10 @@
   <a href="https://adamdeleeuw.ca">
     <img src="https://img.shields.io/badge/Portfolio-adamdeleeuw.ca-0078d4?style=for-the-badge&logo=web&logoColor=white" />
 
-I'm a **Computer Engineering** student at the University of British Columbia, passionate about systems programming and networking.
-
+I'm a **Computer Engineering** student at the University of British Columbia.
 
 ### Tech Stack
-**Languages:** `C` `C++` `Java` `Go` `Python`
-
-**Interests:** Network & Systems Programming, CLI/TUI Apps, Security
+**Languages:** `C` `C++` `Java` `Go` `Python` `TypeScript`
 
 ### What I'm Working On
 * **[HTTP Server](https://github.com/adamdeleeuw/cpp-multithreaded-server)**: A multi-threaded HTTP server written in C++.
