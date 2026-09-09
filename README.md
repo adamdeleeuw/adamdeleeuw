@@ -9,11 +9,6 @@ I'm a **Computer Engineering** student at the University of British Columbia.
 ### Tech Stack
 **Languages:** `C` `C++` `Java` `Go` `Python` `TypeScript`
 
-### What I'm Working On
-* **[HTTP Server](https://github.com/adamdeleeuw/cpp-multithreaded-server)**: A multi-threaded HTTP server written in C++.
-* **[UBC Finds](https://github.com/UBCFinds/ubcfinds.git)**: Simplifies navigation for utilities on UBC campus.
-* **[SSH Portfolio](https://github.com/adamdeleeuw/ssh-portfolio)**: A terminal-based portfolio built with Go.
-
 
 ### Connect
   <a href="https://linkedin.com/in/adamjdl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
