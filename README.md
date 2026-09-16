@@ -7,7 +7,7 @@
 I'm a **Computer Engineering** student at the University of British Columbia.
 
 ### Tech Stack
-**Languages:** `C` `C++` `JavaScript/TypeScript` `Kotlin` `Java` `Go` `Python` `SystemVerilog`
+**Languages:** `C` `C++` `JavaScript` `TypeScript` `Kotlin` `Java` `Go` `Python` `SystemVerilog`
 
 
 ### Connect
